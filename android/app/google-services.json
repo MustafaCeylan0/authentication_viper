@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "42069348025",
+    "project_id": "authentication-viper",
+    "storage_bucket": "authentication-viper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42069348025:android:2379d01c620d176c3f5568",
+        "android_client_info": {
+          "package_name": "com.example.authentication_viper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42069348025-npu73v82slom9dtnc3f5tmrjhu4lle01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnXPjgg6Gk_4FoL1ZisbHWfEZENt9JAMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42069348025-npu73v82slom9dtnc3f5tmrjhu4lle01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
